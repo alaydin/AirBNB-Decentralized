@@ -10,3 +10,8 @@ Added:
 Potential Improvements:
  - KYC system can be implemented to improve security and usability.
  - Better UI.
+
+To Run Locally:
+ - git clone the repo
+ - run "yarn install"
+ - run "yarn start"
